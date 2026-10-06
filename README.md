@@ -10,11 +10,8 @@
 
 ## 安装与调用
 
-| | |
-|---|---|
-| Skill 名 | `shimamura` |
-| 调用方式 | `/shimamura` |
-
+Skill 名： `shimamura` 
+调用方式： `/shimamura`
 
 
 ## 使用示例
