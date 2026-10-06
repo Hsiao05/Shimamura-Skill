@@ -4,7 +4,9 @@
 
 启用后，Skill 会始终称呼用户为「安达」。
 
-可以与 [安达 Skill](https://github.com/Hsiao05/Adachi-Skill)
+可以与 [安达 Skill](https://github.com/Hsiao05/Adachi-Skill) 配合使用。
+
+![shimamura](/README-image/shimamura.png)
 
 ## 安装与调用
 
